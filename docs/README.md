@@ -1,11 +1,11 @@
-[npm-base-model](README.md) › [Globals](globals.md)
+[@imyoon/cp](README.md) › [Globals](globals.md)
 
-# npm-base-model
+# @imyoon/cp
 
 ## description
-- base model for npm package
 
-## details
-- typescript
-- unit test
-- lint + prettier
+- customized async apis for node child_process
+
+## docs
+
+[document](./docs/globals.md)

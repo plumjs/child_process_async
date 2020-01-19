@@ -1,10 +1,7 @@
 ## description
-- base model for npm package
 
-## details
-- typescript
-- unit test
-- lint + prettier
+- customized async apis for node child_process
 
 ## docs
+
 [document](./docs/globals.md)

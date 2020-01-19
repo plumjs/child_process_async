@@ -1,26 +1,26 @@
-[npm-base-model](README.md) › [Globals](globals.md)
+[@imyoon/cp](README.md) › [Globals](globals.md)
 
-# npm-base-model
+# @imyoon/cp
 
 ## Index
 
 ### Functions
 
-* [add](globals.md#add)
+* [run](globals.md#run)
 
 ## Functions
 
-###  add
+###  run
 
-▸ **add**(`a`: number, `b`: number): *number*
+▸ **run**(`cmd`: string, `options?`: ExecOptions): *Promise‹unknown›*
 
-*Defined in [src/add.ts:1](https://github.com/shanfengliudd01/npm-base-model/blob/fdc9a39/src/add.ts#L1)*
+*Defined in [src/run.ts:3](https://github.com/sfltmya/child_process_async/blob/d0af1f1/src/run.ts#L3)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`a` | number |
-`b` | number |
+`cmd` | string |
+`options?` | ExecOptions |
 
-**Returns:** *number*
+**Returns:** *Promise‹unknown›*
